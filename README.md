@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="innovatex.jpg" alt="InnovateX Logo" width="100%">
+</p>
+
+# InnovateX – Voice Controlled Robot & Voice Assistant Engine 🤖🎤
+
 # InnovateX – Voice Controlled Robot & Voice Assistant Engine 🤖🎤
 
 InnovateX is a final-year engineering project that integrates a custom-built **Voice Assistant Engine** with a **Voice Controlled Robot**. It demonstrates how speech recognition, embedded systems, and automation can create an intelligent hands-free robotic system.
